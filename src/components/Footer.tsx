@@ -13,12 +13,12 @@ const Footer = () => {
           <div className="flex items-center space-x-2 text-gray-300 mb-4 md:mb-0">
             <span>Made with</span>
             <Heart className="text-red-500 fill-current" size={16} />
-            <span>by BoltPortfolio</span>
+            <span>by Sai Mukesh</span>
           </div>
           
           <div className="flex items-center space-x-6">
             <p className="text-gray-400">
-              © 2024 BoltPortfolio. All rights reserved.
+              © 2025 Sai Mukesh. All rights reserved.
             </p>
             
             <button

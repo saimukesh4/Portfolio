@@ -5,12 +5,12 @@ const About = () => {
   const highlights = [
     {
       icon: Code,
-      title: "5+ Years Experience",
-      description: "Developing web applications and AI solutions"
+      title: "0 Years Experience",
+      description: "Developing web applications"
     },
     {
       icon: Users,
-      title: "100+ Projects",
+      title: "2+ Projects",
       description: "Successfully delivered across various industries"
     },
     {
